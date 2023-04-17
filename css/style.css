@@ -20,3 +20,15 @@ table ,th, td, tr{
 h1 {
     text-align: center;
 }
+h2{
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
